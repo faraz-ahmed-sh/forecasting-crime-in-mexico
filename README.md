@@ -27,7 +27,7 @@ The repository has the following components:
 *First presentation of the project in the winter quarter 2017*
 
 **DATA:**
-MINI_DB:
+- MINI_DB:
 *Database composed of 7 tables*
 - raw_csv:
 *where the csv's of the Mexican Ministry of Statistics are located*
