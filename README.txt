@@ -1,6 +1,6 @@
-In this project (as part of a course called Computer Science with Applications II offered at UChicago), we created a website that visualizes the rate of crime in different states in Mexico. We also used machine learning technique (LASSO) to predict the crime rate in those states.
+### In this project (as part of a course called Computer Science with Applications II offered at UChicago), we created a website that visualizes the rate of crime in different states in Mexico. We also used machine learning technique (LASSO) to predict the crime rate in those states.
 
-The following sections describe what each of the file in this repository does. If you want to run the program, please go to /frontend/Instructions_frontend.txt. You'll be asked to deploy the project on Flask, a web framework that creates web applications in Python.
+#### The following sections describe what each of the file in this repository does. If you want to run the program, please go to /frontend/Instructions_frontend.txt. You'll be asked to deploy the project on Flask, a web framework that creates web applications in Python.
 
 ----------------------------------------------------------
 
