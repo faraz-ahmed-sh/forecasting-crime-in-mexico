@@ -19,11 +19,11 @@ The repository has the following components:
 
 
 **PROJECT PROPOSAL AND PRESENTATION**
-- CS122-Project_Super Forecasters.docx
+- CS122-Project_Super Forecasters.docx:
 *Project Proposal*
-- Final-Presentation_2.pptx
+- Final-Presentation_2.pptx:
 *Final presentation of the project in the winter quarter 2017*
-- Super-Forecasters-Pitch2.pptx
+- Super-Forecasters-Pitch2.pptx:
 *First presentation of the project in the winter quarter 2017*
 
 **DATA:**
